@@ -1,0 +1,145 @@
+{
+  "data": {
+    "movies": [
+      {
+        "movie_id": "001",
+        "movie_name": "Vinnaithaandi Varuvaayaa"
+      },
+      {
+        "movie_id": "002",
+        "movie_name": "Thalapathi"
+      },
+      {
+        "movie_id": "003",
+        "movie_name": "Kottukali"
+      },
+      {
+        "movie_id": "004",
+        "movie_name": "96"
+      },
+      {
+        "movie_id": "005",
+        "movie_name": "Thangalan"
+      },
+      {
+        "movie_id": "006",
+        "movie_name": "Nayakan"
+      },
+      {
+        "movie_id": "007",
+        "movie_name": "Alaipayuthey"
+      },
+      {
+        "movie_id": "008",
+        "movie_name": "Demonte-colony-2"
+      },
+      {
+        "movie_id": "009",
+        "movie_name": "Bashha"
+      },
+      {
+        "movie_id": "010",
+        "movie_name": "Thullatha Manamum Thullum"
+      },
+      {
+        "movie_id": "011",
+        "movie_name": "Suryas Saturday"
+      },
+      {
+        "movie_id": "012",
+        "movie_name": "Indian"
+      },
+      {
+        "movie_id": "013",
+        "movie_name": "Roja"
+      },
+      {
+        "movie_id": "014",
+        "movie_name": "Deadpool x Wolverine"
+      },
+      {
+        "movie_id": "015",
+        "movie_name": "Hey Ram"
+      },
+      {
+        "movie_id": "016",
+        "movie_name": "Ambikapathy"
+      },
+      {
+        "movie_id": "017",
+        "movie_name": "Virundhu"
+      },
+      {
+        "movie_id": "018",
+        "movie_name": "Vikram"
+      },
+      {
+        "movie_id": "019",
+        "movie_name": "OK Kanmani"
+      },
+      {
+        "movie_id": "020",
+        "movie_name": "Pogumidam Dhooramillai"
+      },
+      {
+        "movie_id": "021",
+        "movie_name": "Dasaavatharam"
+      },
+      {
+        "movie_id": "022",
+        "movie_name": "Kadhalar Dhinam"
+      },
+      {
+        "movie_id": "023",
+        "movie_name": "Kanguva"
+      },
+      {
+        "movie_id": "024",
+        "movie_name": "Padayappa"
+      },
+      {
+        "movie_id": "025",
+        "movie_name": "Kandukondain Kandukondain"
+      },
+      {
+        "movie_id": "026",
+        "movie_name": "Devara"
+      },
+      {
+        "movie_id": "027",
+        "movie_name": "Mankatha"
+      }
+    ],
+    "theaters": [
+      {
+        "theater_id": "001",
+        "theater_name": "INOX"
+      },
+      {
+        "theater_id": "002",
+        "theater_name": "KG CINEMAS"
+      },
+      {
+        "theater_id": "003",
+        "theater_name": "PVR CINEMAS"
+      },
+      {
+        "theater_id": "004",
+        "theater_name": "BRODWAY CINEMAS"
+      },
+      {
+        "theater_id": "005",
+        "theater_name": "COSMO CINEMAS"
+      },
+      {
+        "theater_id": "006",
+        "theater_name": "IMAX"
+      },
+      {
+        "theater_id": "007",
+        "theater_name": "KARPAGAM CINEMAS"
+      }
+    ],
+    "wishList": []
+  }
+}
